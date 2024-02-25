@@ -1,2 +1,2 @@
-print "Pappu kumar"
-print "21BCS2767"
+print ("Pappu kumar")
+print ("21BCS2767")
